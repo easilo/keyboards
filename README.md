@@ -1,3 +1,3 @@
 #keyboards
 
-This repo is used to keep my custom keyboard mappings
+This repo is used to keep my keyboard files such as qmk toolbox and custom keyboard mappings
